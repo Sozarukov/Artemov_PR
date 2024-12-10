@@ -1,0 +1,9 @@
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\PR_8.csproj.ResolveComReference.cache
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\PR_8.Form1.resources
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\PR_8.csproj.GenerateResource.cache
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\PR_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\PR_8.AssemblyInfoInputs.cache
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\PR_8.AssemblyInfo.cs
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\PR_8.csproj.CoreCompileInputs.cache
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\Form1.resources
+C:\Users\AZAL\Desktop\artemov\pr8\PR_8\obj\Debug\net8.0-windows\PR_8.csproj.AssemblyReference.cache

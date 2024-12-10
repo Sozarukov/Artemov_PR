@@ -1,0 +1,16 @@
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.Form1.resources
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.csproj.GenerateResource.cache
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.AssemblyInfoInputs.cache
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.AssemblyInfo.cs
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.csproj.CoreCompileInputs.cache
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\bin\Debug\net8.0-windows\pr6.exe
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\bin\Debug\net8.0-windows\pr6.deps.json
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\bin\Debug\net8.0-windows\pr6.runtimeconfig.json
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\bin\Debug\net8.0-windows\pr6.dll
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\bin\Debug\net8.0-windows\pr6.pdb
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.dll
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\refint\pr6.dll
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.pdb
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\pr6.genruntimeconfig.cache
+C:\Users\AZAL\Desktop\artemov\pr6\pr6\obj\Debug\net8.0-windows\ref\pr6.dll

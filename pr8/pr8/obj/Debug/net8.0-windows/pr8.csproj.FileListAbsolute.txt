@@ -1,0 +1,7 @@
+C:\Users\AZAL\Desktop\artemov\pr8\pr8\obj\Debug\net8.0-windows\pr8.Form1.resources
+C:\Users\AZAL\Desktop\artemov\pr8\pr8\obj\Debug\net8.0-windows\pr8.csproj.GenerateResource.cache
+C:\Users\AZAL\Desktop\artemov\pr8\pr8\obj\Debug\net8.0-windows\pr8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AZAL\Desktop\artemov\pr8\pr8\obj\Debug\net8.0-windows\pr8.AssemblyInfoInputs.cache
+C:\Users\AZAL\Desktop\artemov\pr8\pr8\obj\Debug\net8.0-windows\pr8.AssemblyInfo.cs
+C:\Users\AZAL\Desktop\artemov\pr8\pr8\obj\Debug\net8.0-windows\pr8.csproj.CoreCompileInputs.cache
+C:\Users\AZAL\Desktop\artemov\pr8\pr8\obj\Debug\net8.0-windows\pr8.Form2.resources
